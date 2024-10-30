@@ -12,5 +12,9 @@ export default {
     extend: {},
   },
   plugins: [],
+  safelist: [
+    'green-dark',
+    'green-emix',
+  ]
 }
 
